@@ -1,0 +1,7 @@
+const userIsAdmin = () => {
+
+}
+
+export {
+  userIsAdmin,
+}
